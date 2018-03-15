@@ -1,0 +1,1 @@
+# hexo-permalink-pinyin
