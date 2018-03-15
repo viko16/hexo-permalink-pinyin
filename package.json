@@ -1,6 +1,6 @@
 {
   "name": "hexo-permalink-pinyin",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "A Hexo plugin which convert Chinese title to transliterate permalink.",
   "main": "index.js",
   "scripts": {},
