@@ -1,0 +1,24 @@
+{
+  "name": "hexo-permalink-pinyin",
+  "version": "0.1.0",
+  "description": "Translate the Chinese title in the Hexo blog into transliterate permalink",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viko16/hexo-permalink-pinyin.git"
+  },
+  "keywords": [
+    "hexo",
+    "permalink"
+  ],
+  "author": "viko16",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viko16/hexo-permalink-pinyin/issues"
+  },
+  "homepage": "https://github.com/viko16/hexo-permalink-pinyin#readme",
+  "dependencies": {
+    "transliteration": "^1.6.2"
+  }
+}
