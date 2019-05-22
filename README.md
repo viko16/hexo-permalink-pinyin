@@ -27,8 +27,9 @@ permalink_pinyin:
 
 ```yaml
 permalink_pinyin:
-  enable: true    # Enable this plugin
-  separator: '-'  # Separator of the slug, default: '-'
+  enable: true             # Enable this plugin
+  separator: '-'           # Separator of the slug, default: '-'
+  exclude: /ignore_post/   # Regex for which post should skip
 ```
 
 ## License
